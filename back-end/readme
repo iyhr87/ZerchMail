@@ -1,0 +1,8 @@
+variables de entorno:
+
+export ZINCSEARCH_URL=http://localhost
+export ZINCSEARCH_PORT=4080
+export DATABASE_URL=api/games3
+
+export ZINCSEARCH_ADMIN=admin
+export ZINCSEARCH_PASS=Complexpass#123
