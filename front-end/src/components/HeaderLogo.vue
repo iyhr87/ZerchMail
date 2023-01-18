@@ -10,7 +10,6 @@ defineProps({
 
 <template>
   <div class="flex items-center">
-    <!--<img alt="Mutts logo" class="logo" src="./icons/logo11.jpeg" width="125" height="125" />-->
     <h1 class="text-3xl font-bold">
       &nbsp; &nbsp;
     </h1>
